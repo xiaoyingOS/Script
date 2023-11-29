@@ -4,3 +4,5 @@
 ## 双击运行 *.bat即可 根据提示选择模式
 
 ## Double click on *. bat to select according to the prompts
+
+### 本期开发者：ChatPPT
